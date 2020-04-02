@@ -7,7 +7,7 @@ This is a sudoku solver using the backtracking algorithm.It includes a graphical
 This problem is first solved on a text based version.
 A GUI version of the problem is made with the help of [pygame](https://pypi.org/project/pygame/)
 
-## Libraries used
+## Dependencies used
 
     - Time
     - Pygame
